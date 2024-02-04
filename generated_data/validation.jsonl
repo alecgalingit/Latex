@@ -1,0 +1,10 @@
+{"latex_entry": "$\\hat{Y}_t = 0.8Y_{t-1} + 0.2Y_{t-2} + 0.5X_t + 0.3X_{t-1} + 0.1X_{t-2}$", "wa_nli": "Y hat at time t equals 0.8 times Y at time t minus 1 plus 0.2 times Y at time t minus 2 plus 0.5 times X at time t plus 0.3 times X at time t minus 1 plus 0.1 times X at time t minus 2."}
+{"latex_entry": "\\[ \\int \\int \\int_V (\\nabla \\cdot \\mathbf{F}) \\, dV = \\int \\int_S \\mathbf{F} \\cdot \\mathbf{n} \\, dS \\]", "wa_nli": "The triple integral over the volume V of the divergence of vector field F equals the double integral over the surface S of the dot product of the vector field F and the unit outward normal n."}
+{"latex_entry": "\\[ \\mathcal{L}\\{e^{2t} \\sin(3t)\\} = \\frac{3}{(s-2)^2 + 9} \\]", "wa_nli": "The Laplace transform of e^(2t) * sin(3t) is 3 / ((s-2)^2 + 9)."}
+{"latex_entry": "\\[y' + 3xy = 2x^2 + \\sqrt{5}\\]", "wa_nli": "the derivative of y plus 3 times x times y equals 2 times x squared plus the square root of 5"}
+{"latex_entry": "\\[\n\\begin{align*}\n2x + 3y &= 7 \\\\\n-4x + 2y &= -5 \\\\\n\\end{align*}\n\\]", "wa_nli": "Solve the system of equations 2x + 3y = 7 and -4x + 2y = -5."}
+{"latex_entry": "\\iiint\\limits_{V}(\\nabla \\cdot \\mathbf{F})dV = \\iint\\limits_{S} \\mathbf{F} \\cdot \\mathbf{n} dS", "wa_nli": "The triple integral over the volume V of the divergence of a vector field F is equal to the surface integral over the boundary S of the dot product of the vector field F and the outward normal vector, n."}
+{"latex_entry": "\\frac{d^2y}{dx^2} + 2\\frac{dy}{dx} + y = 0, \\quad y(0) = 1, \\quad y(\\pi) = -1", "wa_nli": "Solve the second order differential equation y'' + 2y' + y = 0 with initial conditions y(0) = 1 and y(pi) = -1."}
+{"latex_entry": "\\(a_n = \\frac{1}{n^2}\\)", "wa_nli": "The nth term, a_n, is equal to one divided by n squared."}
+{"latex_entry": "$\\hat{\\theta}=\\frac{\\bar{X}-\\mu}{\\frac{\\sigma}{\\sqrt{n}}}$", "wa_nli": "Theta hat equals x bar minus mu divided by sigma divided by the square root of n."}
+{"latex_entry": "1. $\\frac{dy}{dx} + 3xy = 2x^2$", "wa_nli": "The derivative of y with respect to x plus 3 times x times y equals 2 times x squared."}
