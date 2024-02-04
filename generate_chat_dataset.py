@@ -36,10 +36,10 @@ def create_dataset(basedir=BASEDIR,api_key=API_KEY,size=DATASET_SIZE,split_ratio
   chat_train_path = os.path.join(BASEDIR,'generated_data','chat_train.parquet')
 
   # Generate latex
-  #generate_latex.main(BASEDIR,latex_path,size,API_KEY)
+  generate_latex.main(BASEDIR,latex_path,size,API_KEY)
 
   # Generate dataset
-  #generate_dataset.main(BASEDIR,latex_path,dataset_path,API_KEY)
+  generate_dataset.main(BASEDIR,latex_path,dataset_path,API_KEY)
 
   # Split into train and validation datasets
   split_data(dataset_path,train_path,validation_path,split_ratio)
