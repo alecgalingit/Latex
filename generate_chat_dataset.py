@@ -1,3 +1,6 @@
+"""
+Module to generate a dataset of Latex and natural language input pairs using GPT. Applies the modules from the utils folder of this repository.
+"""
 import utils.generate_latex as generate_latex
 import utils.generate_dataset as generate_dataset
 import utils.convert_chat_form as convert_chat_form
