@@ -1,6 +1,6 @@
 # Latex
 
-The purpose of this repository is to fine-tune the open source language model LLaMa 2 in order to efficientiely convert Latex code to natural language input. The repository contains the following modules:
+The purpose of this repository is to fine-tune the open source large language model LLaMa 2 in order to efficiently convert Latex code to natural language input. The repo contains the following modules:
   * generate_chat_dataset: utilizes the modules in the utils folder to generate a dataset of Latex code and its corresponding natural language input with GPT.
   * train: finetunes LLama 2 with QLoRa. Due to the paramater-efficient fine-tuning (PEFT) techniques applied, this code can be run on a T4 GPU.
 
